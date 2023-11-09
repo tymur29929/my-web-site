@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Друга світова війна</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Друга світова війна</h1>
+
+    <p>Друга світова війна (1939-1945) була глобальним збройним конфліктом, що мав величезний вплив на всесвітню історію.</p>
+
+    <h2>Основні події</h2>
+    <ul>
+        <li>Початок війни - 1 вересня 1939</li>
+        <li>Кінець війни - 2 вересня 1945</li>
+    </ul>
+
+    <h2>Головні учасники</h2>
+    <table>
+        <tr>
+            <th>Країна</th>
+            <th>Роль</th>
+        </tr>
+        <tr>
+            <td>США</td>
+            <td>Альянс із Союзниками</td>
+        </tr>
+        <tr>
+            <td>Німеччина</td>
+            <td>Основна сила Осі</td>
+        </tr>
+        <tr>
+            <td>СРСР</td>
+            <td>Альянс із Союзниками</td>
+        </tr>
+        <!-- Додайте інші країни за потреби -->
+    </table>
+
+    <h2>Зображення</h2>
+    <img src="link-to-image1.jpg" alt="Опис зображення 1">
+    <img src="link-to-image2.jpg" alt="Опис зображення 2">
+
+</body>
+</html>
